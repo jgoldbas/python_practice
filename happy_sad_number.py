@@ -67,6 +67,8 @@ def is_happy(num):
         num = sum
     return True
 
-# Press the green button in the gutter to run the script.
+
 if __name__ == '__main__':
-    print(is_happy(7))
+    print(is_happy(4)) #should output False
+
+    print(is_happy(7)) #should output True
