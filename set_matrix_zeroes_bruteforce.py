@@ -1,4 +1,4 @@
-
+# This is problem 73 on Leetcode
 def setZeroes( matrix):
     """
     Brute Force Algorithm:
@@ -10,7 +10,7 @@ def setZeroes( matrix):
 
     i = 0
     while i < rows:
-        j=0
+        j = 0
         while j < cols:
             if matrix[i][j] == 0:
                 for R in range(rows):
@@ -23,16 +23,16 @@ def setZeroes( matrix):
         i += 1
 
     #iterate again thru matrix to switch all -1s to 0
-    i=0
+    i = 0
     while i < rows:
-        j=0
+        j = 0
         while j < cols:
             if matrix[i][j] == None:
                 matrix[i][j] = 0
             j += 1
         i += 1
 
-    #fancy way to print formatted matrix:
+    #print formatted matrix:
     for x in range(rows):
         print(matrix[x])
 # ------------------------------------------------------
@@ -40,4 +40,5 @@ if __name__ == '__main__':
     #define hardcoded matrix to pass into function:
     my_matrix = [[1,1,1],[1,0,1],[1,1,1]]
     #call function:
+    print("Brute Force Solution:")
     setZeroes(my_matrix)
