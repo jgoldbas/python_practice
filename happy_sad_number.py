@@ -67,7 +67,6 @@ def is_happy(num):
         num = sum
     return True
 
-
 if __name__ == '__main__':
     print(is_happy(4)) #should output False
 
