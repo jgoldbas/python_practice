@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-In this project I have solved a variety of problems (in no particular order) either from mock interviews, from Leetcode.com, or from those listed in the [LeetCode Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
+In this project I have solved a variety of problems (in no particular order) either from mock interviews, from Leetcode.com, or from those specifically listed in the [LeetCode Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 
 
 
