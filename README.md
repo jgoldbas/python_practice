@@ -7,6 +7,6 @@ In this project I have solved a variety of problems (in no particular order) eit
 ## List of Problems
 54. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) and this code is solved at [spiral_matrix.py](spiral_matrix.py)
 
-125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) code is solved at [this link](https://github.com/jgoldbas/python_practice/blob/main/valid_palindrome_str.py)
+125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) code is solved at [valid_palindrome_str.py](valid_palindrome_str.py)
 
-20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) code is solved at [this link]()
+20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) code is solved at [valid_parentheses.py](valid_parentheses.py)
