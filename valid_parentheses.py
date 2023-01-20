@@ -1,7 +1,6 @@
 #This is problem 20 on Leetcode.com
 #https://leetcode.com/problems/valid-parentheses/description/
 
-
 def isValid(s):
     # initialize the empty stack, list treated as a stack
     myList = []
@@ -34,6 +33,6 @@ def isValid(s):
     return len(myList) == 0
 # ------------------------------------------------------
 if __name__ == '__main__':
-    #define hardcoded matrix to pass into function:
+
     input_string = "({)"
     print(isValid(input_string))
