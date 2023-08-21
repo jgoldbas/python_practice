@@ -24,3 +24,4 @@ the [LeetCode Blind 75](https://leetcode.com/discuss/general-discussion/460599/b
 
 + Parity of a (binary) word from EPI which is solved at [parity_of_a_word.py](parity_of_a_word.py)
 + Happy / Sad numbers code solved at [happy_sad_number.py](happy_sad_number.py)
++ Lonely Integer [lonely_integer.py](lonely_integer.py)
